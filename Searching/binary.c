@@ -31,7 +31,8 @@ void main(){
     printf("The sorted list to search for element: ");
     for(i=0; i<limit; i++){
     printf("%d ", num[i]);
-        }
+    }
+
     //Position of middle number
     middleElement = round((limit+1)/2);
 
